@@ -1,0 +1,11 @@
+Olá {billing_first_name}
+Esses são os detalhes do pedido #{order_id}:
+*Nome* : {billing_first_name}
+Endereço* : {billing_address_1}
+*Cidade* : {billing_city}
+*CEP* : {billing_postcode}
+*Estado* : {billing_state}
+*Número Whatsapp* : {billing_phone}
+*Produtos* : {products_name}
+*Valor Total* : {order_total}
+
